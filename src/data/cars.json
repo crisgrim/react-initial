@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "TT",
+        "company": "Audi"
+    },
+    {
+        "id": 2,
+        "name": "Scirocco",
+        "company": "Volkswagen"
+    },
+    {
+        "id": 3,
+        "name": "Mustang"
+    }
+]
